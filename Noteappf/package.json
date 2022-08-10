@@ -1,0 +1,25 @@
+{
+  "name": "noteappf",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10",
+    "axios": "^0.27.2",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4",
+    "vite": "^2.9.9",
+    "vue-cli-plugin-tailwind": "~3.0.0"
+  }
+}
